@@ -1,0 +1,448 @@
+
+user: 63c15103073383010012c8c3
+name: Patel Rinku
+score: 0.5191046
+actress: Disha Patani
+
+-----------------------------------
+
+user: 63c15a0b0996fb0100abfe2b
+name: JHANVI
+score: 0.53781104
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63a49d24dfe98c01001b9b97
+name: Jigna
+score: 0.5228702
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 609611ae88251e0100bf269e
+name: Kiara
+score: 0.51746136
+actress: Disha Patani
+
+-----------------------------------
+
+user: 61f80c59039cc80100a9c897
+name: Gini
+score: 0.5088492
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 5f674568fd296d010044ed35
+name: Tanisha
+score: 0.5040834
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 61ae16e49471080100e9a467
+name: PRANJAL BHATNAGAR
+score: 0.54027665
+actress: Disha Patani
+
+-----------------------------------
+
+user: 611036b64428a501007cb2b9
+name: Priya Sharma
+score: 0.63489926
+actress: Disha Patani
+
+-----------------------------------
+
+user: 63ba9db07556000100e5d958
+name: 
+score: 0.59251106
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63a4b614fbfc9101004b0013
+name: Saloni
+score: 0.57494795
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 5c7c27c0d558241100b8a46f
+name: Raah
+score: 0.50149655
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 601e61638b9d5d01009320af
+name: Diamond
+score: 0.5380783
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 627950e34bca7101009db1ce
+name: Jhanvi
+score: 0.50668633
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 61c9d985cf085601000073ba
+name: Divya
+score: 0.5216067
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63a998d89773ba010043a9b3
+name: Vyoma
+score: 0.5090298
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 58fb88d13c272dcb4251448d
+name: Piya
+score: 0.52555203
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 62f7c64ac2706801004d42d6
+name: Ananya
+score: 0.5267952
+actress: Disha Patani
+
+-----------------------------------
+
+user: 603607c9de066b01007a0bfb
+name: Sumedha
+score: 0.58036774
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 6384f6941e21960100e89f4f
+name: Hrutvi
+score: 0.51305264
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 5f3edc1bb1b8380100272fb3
+name: Riya
+score: 0.55665386
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63c29561dba72e0100296afe
+name: Khilna
+score: 0.51012075
+actress: Disha Patani
+
+-----------------------------------
+
+user: 6380de828a278901007d1e8d
+name: Krati
+score: 0.5228416
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63c1a22a77ff060100e7dfdf
+name: Sakshi
+score: 0.50755084
+actress: Disha Patani
+
+-----------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+score: 0.51844573
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+score: 0.54597306
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+score: 0.57510674
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+score: 0.5224848
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+score: 0.5099212
+actress: Disha Patani
+
+-----------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+score: 0.5224848
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+score: 0.5099212
+actress: Disha Patani
+
+-----------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+score: 0.57510674
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+score: 0.54597306
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+score: 0.51844573
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63bf86dc9773ba01004b4639
+name: Disha
+score: 0.5155225
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 61feafce3b5fe50100074ebc
+name: Aswathi
+score: 0.63402474
+actress: Disha Patani
+
+-----------------------------------
+
+user: 62667bf84bca71010095e2ed
+name: Khushi
+score: 0.5285199
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 6092ba230ba9130100405633
+name: Unnati Patel
+score: 0.5048703
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 61f7ae32039cc80100a982bd
+name: Jahnvi
+score: 0.560801
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 60558e746ac7790100707805
+name: Mysterious
+score: 0.60336524
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+score: 0.5224848
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 61f7ae32039cc80100a982bd
+name: Jahnvi
+score: 0.560801
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+score: 0.57510674
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 61feafce3b5fe50100074ebc
+name: Aswathi
+score: 0.63402474
+actress: Disha Patani
+
+-----------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+score: 0.51844573
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63bf86dc9773ba01004b4639
+name: Disha
+score: 0.5155225
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 62667bf84bca71010095e2ed
+name: Khushi
+score: 0.5285199
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+score: 0.54597306
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+score: 0.5099212
+actress: Disha Patani
+
+-----------------------------------
+
+user: 6092ba230ba9130100405633
+name: Unnati Patel
+score: 0.5048703
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 60558e746ac7790100707805
+name: Mysterious
+score: 0.60336524
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63b4252e9773ba01004755d7
+name: Khushi
+score: 0.5259193
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 5f0994bf5c55390100163baf
+name: Shraddha resia
+score: 0.56039846
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+score: 0.5224848
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+score: 0.54597306
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+score: 0.57510674
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+score: 0.51844573
+actress: Dia Mirza
+
+-----------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+score: 0.5099212
+actress: Disha Patani
+
+-----------------------------------
+
+user: 62667bf84bca71010095e2ed
+name: Khushi
+score: 0.5285199
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 61feafce3b5fe50100074ebc
+name: Aswathi
+score: 0.63402474
+actress: Disha Patani
+
+-----------------------------------
+
+user: 61f7ae32039cc80100a982bd
+name: Jahnvi
+score: 0.560801
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63bf86dc9773ba01004b4639
+name: Disha
+score: 0.5155225
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 6092ba230ba9130100405633
+name: Unnati Patel
+score: 0.5048703
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 5f0994bf5c55390100163baf
+name: Shraddha resia
+score: 0.56039846
+actress: Mrunal Thakur
+
+-----------------------------------
+
+user: 63b4252e9773ba01004755d7
+name: Khushi
+score: 0.5259193
+actress: Mrunal Thakur
+
+-----------------------------------

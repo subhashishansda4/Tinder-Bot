@@ -1,0 +1,5 @@
+EMAIL = 'subhashishansda2@gmail.com'
+PASSWORD = 'mH3xXtsa8M@A@PD'
+fb_auth_token = ''
+fb_user_id = '1840344539680146'
+TINDER_AUTH_TOKEN = '4ba4a241-ce58-492d-ae49-547b466b2a74'

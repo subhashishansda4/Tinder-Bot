@@ -1,0 +1,4429 @@
+
+user: 63c15103073383010012c8c3
+name: Patel Rinku
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: University of Gujrat
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c1b62a9210f9010090f824
+name: Rajvi
+bio: I eat a lot of pizza cuz me cheeze badi hu mast mast.
+birhday: 2001-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: Digital Marketing
+schools: Gujarat Technological University
+intent: Still figuring it out
+
+descriptors: 
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+Smoking - Non-smoker
+
+---------------------------------------------------------
+
+user: 63c1b3d7dfe98c010027e235
+name: Juhi
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Libra
+Pets - Dog
+Smoking - Smoker
+Workout - Everyday
+
+---------------------------------------------------------
+
+user: 601eff9fd022600100a64422
+name: Ashana
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Nirma University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 635078238c91500100479c10
+name: KhuDeb
+bio: Just need some genuine frnds in life... (Not for hookups)
+birhday: 2004-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: student
+schools: lj University 
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Pets - Don't have but love
+Personality Type - ESFJ
+
+---------------------------------------------------------
+
+user: 6027828c63e1f701000e621d
+name: Zainab
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: Event management And Wedding Planner
+schools: french university
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Pets - Don't have but love
+Drinking - Most Nights
+Smoking - Social smoker
+Dietary Preference - Halal
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63c0ea08b806a0010002fccf
+name: Angel
+bio: I go for a quality over quantity
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: fashion designer
+schools: Indus International University
+intent: New friends
+
+descriptors: 
+Zodiac - Aries
+Education - In Grad School
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Pets - Dog
+Drinking - Not for me
+Smoking - Non-smoker
+Dietary Preference - Vegan
+Social Media - Passive scroller
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 63bf06510996fb0100ab2494
+name: Aaru
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: tender bidding
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Libra
+Education - In College
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Personality Type - INTJ
+Communication Style - I stay on WhatsApp all day
+Love Style - Time together
+Pets - Dog
+Drinking - Not for me
+Smoking - Smoker when drinking
+Workout - Everyday
+Dietary Preference - Other
+Social Media - Influencer status
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 63c13328b0ebd7010056c74e
+name: Bhavika Rathod
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: bhavu
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c15a0b0996fb0100abfe2b
+name: JHANVI
+bio: Introvert
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Cancer
+Education - Masters
+Dietary Preference - Vegetarian
+
+---------------------------------------------------------
+
+user: 63a49d24dfe98c01001b9b97
+name: Jigna
+bio: Catching up with the life lately... Wbu? 
+birhday: 2000-01-17
+distance: 0.0
+location: Jamnagar
+jobs: Dentist
+schools: Saurashtra University
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Education - Bachelors
+COVID Vaccine - Vaccinated
+Personality Type - INTJ
+Communication Style - Better in person
+Love Style - Touch
+Pets - Want a pet
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 63c114dd073383010012b727
+name: Shivani
+bio: I'm really sorry for all that glitch 😑
+Buttttt
+
+Don't let your spark fly 
+
+Meri baat suno khol ke apane kaan
+You are doing your best
+Puri laga rahe ho apani jaan 
+Phir kyo ho pareshan 
+Aaj nahi to kal ban jayega kaam
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 619d3d38e245d70100f51083
+name: Roccella
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: institute of pharmacy and technology
+salipur
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 609611ae88251e0100bf269e
+name: Kiara
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: University of Gujrat
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61f80c59039cc80100a9c897
+name: Gini
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61d74edfeddc57010009ca3c
+name: Mital Yadav
+bio: Not here for any Hookups🤷🏻
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 602f7008d022600100b19608
+name: Hiteshi
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: Khargone
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Cancer
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 63befaadcc4e2101000400b7
+name: Diya
+bio: 🥂
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Virgo
+Education - In College
+Communication Style - Phone caller
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Often
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 631f1a799c418e010070b082
+name: Serra
+bio: If you're looking for casuals or hook-ups, I'm not the one for uh🥲
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Leo
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 6377bd7ee09c740100a982fd
+name: Ruhi
+bio: I am looking for the kind of person ,I can laugh and be silly with...
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Bahra University
+intent: 
+
+descriptors: 
+Zodiac - Cancer
+Love Style - Thoughtful gestures
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+Communication Style - I'm slow to answer on WhatsApp
+
+---------------------------------------------------------
+
+user: 63bc155ad7fd080100d43e78
+name: Anisha
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Indian Institute of Management Ahmedabad
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5f674568fd296d010044ed35
+name: Tanisha
+bio: Just here to swipe. I'm bored. Here to have conversations only. :)
+birhday: 2002-01-17
+distance: 0.0
+location: Gandhinagar
+jobs: Student
+schools: Unitedworld Institute of Design
+intent: New friends
+
+descriptors: 
+Zodiac - Aquarius
+COVID Vaccine - Vaccinated
+Pets - Don't have but love
+Love Style - Time together
+
+---------------------------------------------------------
+
+user: 63c195799210f9010090e800
+name: Sanaa
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Indian Institute of Technology, Gandhinagar
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6204e89a6ff0ac0100cc0864
+name: Ishika
+bio: Happy soul❤️
+
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+
+---------------------------------------------------------
+
+user: 6341b862ff701201007d52e3
+name: Kritika
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63884ba1a5dc940100e5ef21
+name: Mahima Dave
+bio: I love riding bikes..🏍️💞 nd also love to make friends🤭🤍
+Follow on insta: _thatglamgirl__
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Leo
+Education - In College
+COVID Vaccine - Vaccinated
+Communication Style - Phone caller
+Love Style - Time together
+Drinking - Not for me
+Smoking - Non-smoker
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 630a7c6ed46a4f01008d91d4
+name: Priyanka
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Sagittarius
+COVID Vaccine - Vaccinated
+Love Style - Thoughtful gestures
+Pets - Pet-free
+Dietary Preference - Omnivore
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+Communication Style - Better in person
+
+---------------------------------------------------------
+
+user: 634e368cc4281e0100224c6e
+name: Janvi
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+Zodiac - Leo
+
+---------------------------------------------------------
+
+user: 5b600672821b49050a0120e5
+name: Heena
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Gemini
+
+---------------------------------------------------------
+
+user: 61779c225ceb3b0100e0b9f9
+name: Shreya
+bio: Since forever isn't forever, let's just vibe till whenever!🥳
+birhday: 2003-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+Pets - Pet-free
+
+---------------------------------------------------------
+
+user: 61ae16e49471080100e9a467
+name: PRANJAL BHATNAGAR
+bio: Ig: @pranjal_2321
+birhday: 2003-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 63c180cfd7fd080100d5eace
+name: Meghana
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Aquarius
+Education - In College
+COVID Vaccine - Vaccinated
+Personality Type - INTJ
+Communication Style - Big time texter
+Drinking - Sober curious
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Carnivore
+Social Media - Passive scroller
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 6362b6048b9968010063a98b
+name: Pooh
+bio: I’m out here loving me. Wyd?
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Sagittarius
+Personality Type - ISFP
+Communication Style - Better in person
+Drinking - On special occasions
+Smoking - Smoker
+Workout - Everyday
+Dietary Preference - Vegan
+Social Media - Passive scroller
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63c16c8ddfe98c010027c230
+name: Soumya
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: NIPER
+intent: Long-term, open to short
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5fd217325a6d550100e7a0ca
+name: Ruhi
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: Vadodara
+jobs: Accountant
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+Zodiac - Libra
+Pets - All the pets
+
+---------------------------------------------------------
+
+user: 625e79acc18b590100adfc56
+name: Divya
+bio: I'll carve our initials onto a tree on our first date, it's the most romantic way to let you know i have a knife🥰
+birhday: 2002-01-17
+distance: 0.0
+location: Delhi
+jobs: College Student
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Aries
+Education - In College
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Pets - Don't have but love
+Drinking - On special occasions
+Smoking - Smoker
+Workout - Never
+Dietary Preference - Other
+Social Media - Socially active
+Sleeping Habits - Night owl
+Love Style - Compliments
+
+---------------------------------------------------------
+
+user: 63949b73dfe98c010015a762
+name: Yukta
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 611036b64428a501007cb2b9
+name: Priya Sharma
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Arni University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 637b8619dd41c00100c2c53e
+name: Pranjal
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Gemini
+Education - In College
+Love Style - Time together
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63b5084eb0ebd7010051b1bd
+name: Jenny
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Capricorn
+Education - In College
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Thoughtful gestures
+Pets - Dog
+Drinking - On special occasions
+Smoking - Non-smoker
+Dietary Preference - Vegan
+Social Media - Socially active
+Sleeping Habits - Night owl
+Workout - Never
+
+---------------------------------------------------------
+
+user: 6232220b240b3301009f6d52
+name: Aditi
+bio: Nothing too special, always special to myself
+✌✌
+birhday: 2002-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: Security
+schools: Gujarat University
+intent: 
+
+descriptors: 
+Smoking - Non-smoker
+Zodiac - Libra
+
+---------------------------------------------------------
+
+user: 63ba9db07556000100e5d958
+name: 
+bio: Sam here
+
+birhday: 1999-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: Ahmedabad University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b9d2fe94ddfb010037fe74
+name: Zeel
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c00da89d502c01006b6de3
+name: Samruddhi
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: UID
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Gemini
+Education - In Grad School
+Communication Style - I stay on WhatsApp all day
+Love Style - Time together
+Pets - Cat
+Workout - Sometimes
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63a4b614fbfc9101004b0013
+name: Saloni
+bio: Currently traveling
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: BeautyBoss
+schools: University of Maryland, College Park
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Aquarius
+COVID Vaccine - Vaccinated
+
+---------------------------------------------------------
+
+user: 5bbadf349f2cc44c5957c2b0
+name: MARIYA
+bio: 
+I like my coffee and my man dark 🖤
+
+Insta: mariyarajput_
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bb0e3bb806a0010000a779
+name: Nishita
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Scorpio
+Education - Masters
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Love Style - Thoughtful gestures
+Pets - Fish
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Often
+Social Media - Passive scroller
+Sleeping Habits - In a spectrum
+Communication Style - Phone caller
+
+---------------------------------------------------------
+
+user: 63c1bdb97556000100e8259f
+name: Shreya
+bio: Here to talk,
+ about music,movie, and life.
+Good listener
+Medico 
+
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Sardar Patel University
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6391832235ce840100f56d02
+name: Jerin Wilson
+bio: "Live in the Moment"🦋
+Currently in Mumbai! 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: cabin crew
+schools: N. M zala commerce college
+
+intent: 
+
+descriptors: 
+Zodiac - Libra
+Education - Bachelors
+Communication Style - Better in person
+Pets - Bird
+Drinking - Socially on weekends
+Smoking - Non-smoker
+Workout - Sometimes
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63bd01930996fb0100aa5fcc
+name: Krisha
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Libra
+Education - Bachelors
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Drinking - On special occasions
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 639adb8435ce840100f8e5f9
+name: Jyoti
+bio: Nothing to say🙊
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Education - Masters
+COVID Vaccine - Prefer not to say
+Communication Style - Better in person
+Love Style - Compliments
+Family Plans - Not sure yet
+
+---------------------------------------------------------
+
+user: 63b45c3694ddfb01003590e4
+name: Shveta
+bio: Travel Enthu
+New in city so exploring 
+Insta id: Kean.doll
+Looking for new friends 
+(NO HOOKUPS, NO CASUAL, NO FRIENDS WITH BENEFITS)
+Genuine people only text
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5c7c27c0d558241100b8a46f
+name: Raah
+bio: I can be your chubby lil cuddle bear.
+Swipe right to know better. 
+
+
+
+birhday: 2000-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+Zodiac - Libra
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 629d0b7ba2d0f10100d1ac0d
+name: SS
+bio: Insta - SanghmitraSisodiya 🌱
+
+Swipe right only if you are Vegan and if you know that 
+
+Dairy cows buffaloes are sold to slaughterhouses when they can't give milk or they get old 
+
+And male calfs are slaughtered as soon as they are born because they can't give milk, and only 1 male is sufficient for sperms ! Others are brutally tortured to death 
+
+How else is India amongst the top beef exporters? 
+
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Dietary Preference - Vegan
+
+---------------------------------------------------------
+
+user: 631f0457b9b3f30100fa4dd5
+name: Saburi
+bio: Kashmiri. Ukulele player and amateur singer. 
+
+I’m a very silent person 🙃
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Hidayatullah National Law University
+intent: 
+
+descriptors: 
+Zodiac - Capricorn
+
+---------------------------------------------------------
+
+user: 6331af8bc30ec9010055169e
+name: Priyal
+bio: Will probably seduce your brain cells🙋🏼‍♀️
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: Advocate
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b9a49577ff060100e49bfd
+name: Krisha
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63a9894bdba72e01001ebd3f
+name: Zenny
+bio: ♥️🤦🏻‍♀️
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Education - In College
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Smoking - Non-smoker
+Workout - Everyday
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 62ab14e422d921010048d66e
+name: Sunidhi
+bio: 🧜🏻‍♀️Look like Barbie, Smoke like Marley🌳
+I bet you cannot out-smoke me🥱🍃
+NON stoners: do NOT slide
+Sunidhi_279 :instagram
+Sunidhi_sahu1 :snapchat
+birhday: 1999-01-17
+distance: 0.0
+location: New Delhi
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Cancer
+
+---------------------------------------------------------
+
+user: 601e61638b9d5d01009320af
+name: Diamond
+bio: Ig: the_emerald_gurl__ 🌸
+
+
+Gurl with long black hairs ,long legs ,tanned skin.....the kind of gurl u want to keep around &crave her more day by day🦋
+But damn will she be intrested 🤔
+Meeting new ppl & making new frnds is my suit…  
+
+⚠️ f*ckboys r suppose to stay away  ⚠️ 
+
+
+
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: Gujarat Ayurved University
+intent: 
+
+descriptors: 
+Zodiac - Pisces
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 6119f19f1f5a040100ef7e08
+name: Zalak Patel
+bio: Insta :-zalakk.__
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Pisces
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 627950e34bca7101009db1ce
+name: Jhanvi
+bio: Mostly active on IG (life.as.jhanvi)✨
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 622ec417d9fb8201007a21f7
+name: Rushali
+bio: Hi🙂
+Hookups and casual stay away🙂
+I m here for a good friendship 🫡
+Serious type🙂
+Shy🙂
+Ok bye🙂
+birhday: 2001-01-17
+distance: 0.0
+location: Vadodara
+jobs: streamer
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+Education - In College
+Family Plans - I don't want children
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Pets - Don't have but love
+Drinking - Sober
+Smoking - Social smoker
+Dietary Preference - Other
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63bb188e35ce840100062a8a
+name: Mansi
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61c9d985cf085601000073ba
+name: Divya
+bio: More than u expect 🍷🍷
+
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: full unemployed
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Pisces
+
+---------------------------------------------------------
+
+user: 63bc770ddba72e0100271549
+name: Kinjal
+bio: Extremely Introvert 🫥
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: New friends
+
+descriptors: 
+Education - Bachelors
+Family Plans - I don't want children
+COVID Vaccine - Vaccinated
+Communication Style - I stay on WhatsApp all day
+Love Style - Compliments
+Pets - Pet-free
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63a998d89773ba010043a9b3
+name: Vyoma
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: Software engineer
+schools: Indus University
+intent: 
+
+descriptors: 
+Education - Bachelors
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Pets - Dog
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Never
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 61ace5ad521b470100002e61
+name: Kishu
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 609b3e5b8cb039010047ec18
+name: Foram
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: University of Mumbai
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 58fb88d13c272dcb4251448d
+name: Piya
+bio: I'm here to make friends.
+Not interested in dates. 
+
+If you are Into Kpop or Kdrama? Drop a DM ❤️
+Insta: ritupandit195
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c0368db0ebd701005668df
+name: Khushi
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Short-term fun
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 626e65394b13430100f19fc8
+name: Khushbu Meena
+bio: What I like:- 
+💃🏻Dancing
+🏖️Travelling
+🎥 Vlogging
+Let's talk on insta:- Khushbu_mehar
+
+birhday: 2004-01-17
+distance: 0.0
+location: Gandhinagar
+jobs: Student
+schools: Indian Institute of Technology, Gandhinagar
+intent: 
+
+descriptors: 
+Zodiac - Capricorn
+Education - Bachelors
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Personality Type - ENFJ
+Communication Style - Video chatter
+Love Style - Time together
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 6374e0ff76dd37010070e515
+name: Nilam
+bio: I’m loud, yes that’s about it.
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: -
+schools: Flame
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Cancer
+Personality Type - ENFP
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 61b896fe8e28f7010078009f
+name: M
+bio: Everything happens for a reason ✨
+
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: University
+
+intent: 
+
+descriptors: 
+Zodiac - Leo
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 63a5814107fbca0100f7d89b
+name: Hinal
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Cdsrc Ahmedabad
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 62f7c64ac2706801004d42d6
+name: Ananya
+bio: Just trynna find new places and catch some vibes ✨
+birhday: 2000-01-17
+distance: 0.0
+location: Bengaluru
+jobs: Financial Analyst
+schools: University of Illinois at Urbana-Champaign
+intent: 
+
+descriptors: 
+Zodiac - Capricorn
+Pets - All the pets
+
+---------------------------------------------------------
+
+user: 62ecd1fd9ca95501007e1c72
+name: Dimpy
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5c1a741f357d72256f8d5bbe
+name: Radhika
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bdb1479d502c01006ab8b7
+name: Sana
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5ffd041922d07e0100714b79
+name: Zeel
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aries
+Pets - Cat
+
+---------------------------------------------------------
+
+user: 63bd25a7b806a00100018b25
+name: Isha Devadia
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Virgo
+Education - In College
+Family Plans - Not sure yet
+Communication Style - Big time texter
+Love Style - Thoughtful gestures
+Pets - Want a pet
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Carnivore
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 639461d4cc4e210100f637f9
+name: Aaru
+bio: Eccentric. Here to just make new friends.
+Hanging out, having long conversations and drives is what I like. 
+
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: Rai University 
+intent: New friends
+
+descriptors: 
+Zodiac - Libra
+Education - In College
+COVID Vaccine - Vaccinated
+Drinking - Not for me
+Workout - Sometimes
+Dietary Preference - Halal
+Pets - All the pets
+
+---------------------------------------------------------
+
+user: 603607c9de066b01007a0bfb
+name: Sumedha
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Manav Rachna International University
+intent: Still figuring it out
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5f57fd36cfd1d5010000a9ac
+name: Kesha
+bio: In a world full of beauty👸with the brain 
+I believe in badass🧛‍♀️with a brain 
+Just being Sapiosexual 🧠 ❤
+⏪Swipe right only if you match with it 
+
+birhday: 2000-01-17
+distance: 0.0
+location: Gujarat
+jobs: Field Coordinator
+schools: The Maharaja Sayajirao University of Baroda
+intent: New friends
+
+descriptors: 
+Zodiac - Gemini
+Education - Masters
+Family Plans - I don't want children
+COVID Vaccine - Prefer not to say
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Social Media - Passive scroller
+
+---------------------------------------------------------
+
+user: 6317ad8d1d6f820100189402
+name: Jennie
+bio: New in town, looking for friends.
+This app is my last resort😌
+@mancy._ _ _
+Chennai📍
+birhday: 1998-01-17
+distance: 0.0
+location: Rajasthan
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Pets - Don't have but love
+Zodiac - Pisces
+
+---------------------------------------------------------
+
+user: 6384f6941e21960100e89f4f
+name: Hrutvi
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: San Francisco
+jobs: 
+schools: Academy of Art University
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Pisces
+Education - In Grad School
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Thoughtful gestures
+Pets - Want a pet
+Drinking - Socially on weekends
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 5f3edc1bb1b8380100272fb3
+name: Riya
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: University of Wisconsin-Madison
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c29561dba72e0100296afe
+name: Khilna
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Capricorn
+Education - Bachelors
+Family Plans - I want children
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Pets - Want a pet
+
+---------------------------------------------------------
+
+user: 6380de828a278901007d1e8d
+name: Krati
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Chandigarh University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 62e558c04e95f00100f7606b
+name: Swarnaa
+bio: So here’s how this will go
+We’ll talk about the stock market and share trades
+I’ll make small talk, you will mention the puppy
+Pretty sure it’ll get flirty
+Eventually, you’ll send me your number
+
+Risking it all, You ask me out and i say yes
+I wasn’t expecting to get this far
+Good chance we’ll get drunk at a party
+Hey wanna choose what happens next?
+Then go and read the first letter of each line
+
+Extremely Introvert So dnt ask for meet on starting conversation
+
+IG : swarnaa.patel
+SC: swarnaapatel
+birhday: None
+distance: 0.0
+location: Ahmedabad
+jobs: F&O Trader
+schools: Chandigarh University
+intent: Short-term, open to long
+
+descriptors: 
+Zodiac - Virgo
+Education - In Grad School
+Family Plans - I don't want children
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Compliments
+Pets - Dog
+Drinking - Socially on weekends
+Smoking - Smoker
+Workout - Everyday
+Social Media - Socially active
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 6311c15b2a7ef50100ff949a
+name: Betsy
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 62a109630a869801007b3d88
+name: Tisha
+bio: Be my New year’s kiss?
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: Student
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Gemini
+Education - In College
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Touch
+Pets - Pet-free
+Smoking - Social smoker
+Workout - Never
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 63c1a22a77ff060100e7dfdf
+name: Sakshi
+bio: If I were good at pick up lines, I would've used bumble instead 🐱
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Cancer
+Education - In College
+Workout - Often
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 606eb408bae779010084bbd5
+name: Khushi Shah
+bio: Don't just say hi or hey,start with some interesting chat,try to put your impressions on first message, don't bore me,here for making new friends. Don't demand anything before building up trust.
+
+Suggest me some games that we can play on chat , don't say truth and dare😂
+Or imagine me by seeing my profile pictures and try to tell about myself .
+Or send me some cute pics ,i love to see cute couples pics like in my profile 
+birhday: 2001-01-17
+distance: 0.0
+location: Anand
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Education - In College
+Family Plans - I want children
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Time together
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+bio: Don’t ask for my Insta fb & WhatsApp 
+I’m here for few days & just wanna meet new people to chill with & fun.
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Gujarat University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Pisces
+Education - Masters
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Time together
+Drinking - Socially on weekends
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: C K Shah
+
+intent: New friends
+
+descriptors: 
+Zodiac - Aries
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 61967484fc30c50100d5ee91
+name: Dolly
+bio: I m just finding only friends who's chilling with me 😌💥
+birhday: 2001-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: silver oak University 
+intent: New friends
+
+descriptors: 
+Zodiac - Pisces
+Pets - Don't have but love
+Education - Masters
+
+---------------------------------------------------------
+
+user: 63a8304d9773ba0100433020
+name: Janvi
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+Zodiac - Capricorn
+Education - Bachelors
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Communication Style - Video chatter
+Love Style - Time together
+Pets - Want a pet
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Never
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 61f85b8a0acc570100b291f0
+name: Manisha
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: Noida
+jobs: Interior designer
+schools: Amity University, Uttar Pradesh
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Personality Type - INTJ
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 62bdefeb1fb44801000b4165
+name: Geet
+bio: I am  sweetheart of all who are sweet for me and bitter for special ones 💫💥🖤 
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: hotiler by profession
+schools: Sihm Indore 
+intent: 
+
+descriptors: 
+Zodiac - Gemini
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 5c8f8216e1aee81100c3b731
+name: MINOLI
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63ba736edba72e0100262ca5
+name: Riya
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bb50aadba72e0100269a5d
+name: Vrushali
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Parul University
+intent: Short-term, open to long
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6305255a01fd7901003f0637
+name: Khushi
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 610d7fb227b1790100260543
+name: Dharti
+bio: Swipe right to waste time 💁🏽‍♀️
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Libra
+Pets - Pet-free
+
+---------------------------------------------------------
+
+user: 62d1b7178ee7bf01006c807e
+name: Keshvi
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Capricorn
+Personality Type - INFP
+Workout - Never
+
+---------------------------------------------------------
+
+user: 63bbf29c94ddfb010038f473
+name: Muskan
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: Gandhinagar
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Libra
+Education - In College
+Communication Style - Better in person
+Love Style - Time together
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Sleeping Habits - In a spectrum
+Social Media - Passive scroller
+
+---------------------------------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+bio: um hi
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+
+---------------------------------------------------------
+
+user: 63a2df009210f9010084179f
+name: Damini
+bio: 21 🥂
+Proud to be Nepali 🫶🏻
+birhday: 2002-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Libra
+Education - Masters
+Family Plans - Not sure yet
+COVID Vaccine - Prefer not to say
+Communication Style - Better in person
+Pets - Don't have but love
+Drinking - On special occasions
+Smoking - Trying to quit
+Workout - Never
+Dietary Preference - Other
+Social Media - Socially active
+
+---------------------------------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+bio: Forensic scientist
+I see dead people
+I'm Salunke to your coke
+Okay cool 
+Good talk 
+Bye
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 631def8353cf770100be213e
+name: Namrata
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Communication Style - Better in person
+Love Style - Time together
+Pets - Dog
+Drinking - Socially on weekends
+Smoking - Smoker
+Workout - Sometimes
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63be246277ff060100e694c7
+name: Honey Vyas
+bio: Choreographer and theatre artist love to watch movie, ready to travel anytime but of course not possible..😅 wnat to explore new places
+Beach person 🌸
+birhday: 1998-01-17
+distance: 0.0
+location: Gandhinagar
+jobs: outbound
+schools: Kendriya Vidhyalaya
+intent: Short-term, open to long
+
+descriptors: 
+Zodiac - Cancer
+Education - Masters
+Family Plans - I want children
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Compliments
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+Pets - Want a pet
+
+---------------------------------------------------------
+
+user: 63bdaa77fbfc91010055acbc
+name: Juhi
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: vakal vidhyalay bajwa 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63a83fcd0996fb0100a13d2e
+name: Samaira
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Center for Environmental Planning and Technology University CEPT University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5aa095d95ffa22a23e840b98
+name: Himani
+bio: criminal defense law clerk
+🍃🍃🍃
+vegetarian but i’ll happily eat the rich. fuck 12 ☭
+looking for a gym partner in pilsen or smoke buddy
+
+(not my cat)
+birhday: 2000-01-17
+distance: 0.0
+location: Chicago
+jobs: Criminal Law Clerk
+schools: Loyola University Chicago
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+Family Plans - I don't want children
+Personality Type - ENFP
+Communication Style - Bad texter
+
+---------------------------------------------------------
+
+user: 63a732fbb806a00100f7ff13
+name: Bhumika thakor
+bio: DR_ 
+More using Insta  Darktheamulet_
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c1aa329210f9010090f213
+name: Fearless soul
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Sardar Patel University
+intent: Long-term, open to short
+
+descriptors: 
+Zodiac - Leo
+Education - Bachelors
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Thoughtful gestures
+Pets - Want a pet
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Social Media - Socially active
+Sleeping Habits - Night owl
+Dietary Preference - Other
+
+---------------------------------------------------------
+
+user: 63bfcbb594ddfb01003a787e
+name: Vrutti
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: University of Gujrat
+intent: New friends
+
+descriptors: 
+Education - In College
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 62259c61e30ad40100541dfd
+name: Dhruvi
+bio: insta: dhruvipatel.1
+birhday: 2003-01-17
+distance: 0.0
+location: Griswold
+jobs: 
+schools: Quinnipiac University
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Pets - Dog
+
+---------------------------------------------------------
+
+user: 63c16be1073383010012d2dc
+name: Pooja
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Mohan Lal Sukhadia University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bfb30b7556000100e7868f
+name: Riya
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: mumbai university
+intent: New friends
+
+descriptors: 
+Zodiac - Sagittarius
+Education - Bachelors
+COVID Vaccine - Vaccinated
+Love Style - Time together
+
+---------------------------------------------------------
+
+user: 63ba801c94ddfb0100384c9d
+name: Hetvi Patel
+bio: Don't have Tinder plus  so don't hope for response 😬
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: holy angles 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6336bb72c43fc40100860607
+name: Sanjana
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61161b568a7ac50100e51246
+name: Foram
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63af1e91b0ebd701004f1750
+name: Tripti
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6371b30618d4b20100bd03ce
+name: Khushi
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Madison
+jobs: Student
+schools: University of Wisconsin-Madison
+intent: Short-term fun
+
+descriptors: 
+Zodiac - Libra
+Pets - Fish
+Smoking - Non-smoker
+
+---------------------------------------------------------
+
+user: 60ca333002c5d40100b8bae4
+name: Bhagyashree
+bio: Stuck in the middle of Nowhere and Somewhere 
+I happen to be very honest about my opinions. I...
+• Hate small talks
+• Love my sisters.
+• Hate social stereotypes and standards.
+• Love engaging conversations over anything that makes sense.
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63ac89ccfbfc9101004e3791
+name: J
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Pets - Allergic to pets
+Workout - Often
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63187dd8c43fc40100799ccb
+name: Khushi
+bio: Author, Traveller,  Vlogger♥️
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Gemini
+Communication Style - Bad texter
+Love Style - Time together
+Pets - Dog
+Drinking - Sober
+
+---------------------------------------------------------
+
+user: 63b59f61dba72e0100240875
+name: Sans
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+bio: Forensic scientist
+I see dead people
+I'm Salunke to your coke
+Okay cool 
+Good talk 
+Bye
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 6207a49688a9a7010088754c
+name: Khushi
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Pets - Dog
+Drinking - Socially on weekends
+
+---------------------------------------------------------
+
+user: 6346bf46b1be850100ba4372
+name: rajashree
+bio: ig: @rajashhree
+people (other than me) are great with bios. can i interest you in a soul deteriorating movie instead?
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Personality Type - INTJ
+
+---------------------------------------------------------
+
+user: 6351b0768c91500100480b73
+name: Rit
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: Gandhinagar
+jobs: 
+schools: Ahmedabad University
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Libra
+COVID Vaccine - Vaccinated
+Pets - All the pets
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Never
+Dietary Preference - Vegetarian
+
+---------------------------------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: vakal vidhyalay bajwa 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5cc5b7989962eb15009d4d96
+name: Yashvi
+bio: Movies: adventure,mystery ,horror more of my taste
+Live life on my terms...nahhh indian parents uk🤧🤫
+Pizza or panipuri...grab both , dessert also😅
+Looking for deep conversation n..aah also need some motivation for "hitting gym" 😤humour and sarcasm is what spices up the convo
+Best kinda jokes:the lamer once😋
+Chai❤️ is my drug (soberon ka sahara)
+Vibe is everything
+birhday: 2000-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: Indubhai Patel college of Pharmacy and Research Center .IPCOWALA
+intent: New friends
+
+descriptors: 
+Zodiac - Scorpio
+Education - In College
+COVID Vaccine - Vaccinated
+Communication Style - I'm slow to answer on WhatsApp
+Love Style - Thoughtful gestures
+Pets - Want a pet
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+Family Plans - Not sure yet
+
+---------------------------------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+bio: um hi
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+
+---------------------------------------------------------
+
+user: 618e62f00e452a010074db4b
+name: PatelSakshi
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: Nadiad
+jobs: 
+schools: Dharmsinh Desai University
+intent: 
+
+descriptors: 
+Education - Masters
+Zodiac - Aquarius
+
+---------------------------------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: C K Shah
+
+intent: New friends
+
+descriptors: 
+Zodiac - Aries
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+bio: Don’t ask for my Insta fb & WhatsApp 
+I’m here for few days & just wanna meet new people to chill with & fun.
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Gujarat University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Pisces
+Education - Masters
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Time together
+Drinking - Socially on weekends
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 6382ef52d91bdd0100934d26
+name: Ritu
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Libra
+Family Plans - Not sure yet
+Love Style - Time together
+Pets - Dog
+Drinking - On special occasions
+Smoking - Trying to quit
+Workout - Never
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 630696151e3d8e01006d5737
+name: Rupal
+bio: I get nice guys and villainize them
+birhday: 2004-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Libra
+Education - In College
+Pets - Dog
+
+---------------------------------------------------------
+
+user: 5f997f254962d6010075e8fc
+name: Nivi Bhayani
+bio: 
+📷:- estrella_celeste7376
+birhday: 1998-01-17
+distance: 0.0
+location: Bhavnagar
+jobs: 
+schools: GLS university
+intent: Long-term partner
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 626e22164bca71010098fe4a
+name: Divya
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Pisces
+Pets - Pet-free
+
+---------------------------------------------------------
+
+user: 63bf86dc9773ba01004b4639
+name: Disha
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b292b7b0ebd701005081c7
+name: Diya
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Navrachna University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Libra
+Education - Masters
+
+---------------------------------------------------------
+
+user: 63c04274b806a0010002b869
+name: Neha
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 62b985c19c2e7d0100efb990
+name: Prache
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Parul University
+intent: New friends
+
+descriptors: 
+Zodiac - Virgo
+
+---------------------------------------------------------
+
+user: 63c19bc3cc4e21010004cb82
+name: Prachi
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Virgo
+Education - In College
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Never
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 63b95002b0ebd701005388b5
+name: V
+bio: If you need someone who always has something to say i am the one🥲 
+In love with sitaramam and jab we met❤️
+I don't have my own personality I have stole it from Geet
+Pick up lines will be great and a big no to hookups and fwb
+Inshort, Mai apni favourite hu ❤️✨
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: Student
+schools: The Maharaja Sayajirao University of Baroda
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Taurus
+Education - In College
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Personality Type - ENFJ
+Communication Style - Big time texter
+Love Style - Compliments
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+Workout - Sometimes
+
+---------------------------------------------------------
+
+user: 63bfded99773ba01004b5a65
+name: Patel
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Delhi public school kutch
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Education - In College
+Communication Style - Better in person
+Love Style - Time together
+Pets - Dog
+Drinking - On special occasions
+Smoking - Social smoker
+Workout - Never
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 63b0537635ce8401000156ab
+name: Pooja
+bio: Looking for boyfriend 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Unity University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5c69caa35308b41400aed339
+name: Sleepy
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5fc78a85514ddd01001ac19f
+name: Khushi
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Pets - All the pets
+
+---------------------------------------------------------
+
+user: 6310e519b9b3f30100f45e44
+name: Missy
+bio: 
+. 
+Too many hobbies 😌
+Comedian 
+
+
+birhday: 2001-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: Parul University
+
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Leo
+Education - Masters
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Never
+Sleeping Habits - Early bird
+Pets - Want a pet
+
+---------------------------------------------------------
+
+user: 63a80f19b0ebd701004c02e3
+name: Varsha
+bio: Want some good friends and bonds not for any love relationship !💫
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Kendriya vidyalaya no.1
+intent: New friends
+
+descriptors: 
+Zodiac - Cancer
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Night owl
+Education - Masters
+
+---------------------------------------------------------
+
+user: 638b7c645fa8ac01005b1f1e
+name: Jaanvi
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bd18fddfe98c0100262360
+name: Priya
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Gujarat University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 636fd15b23d83101000627ab
+name: Maheen
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63805c6902b17a0100c5d0e5
+name: Shell
+bio: Ig .: miss_selinnn__
+
+ 
+Girlfrnd vale or shadisuda dur rahe😂😂😂
+Chocolate premi💙
+
+Love is fake😌 love to earn money and buy mom dad's every dream
+
+birhday: 1999-01-17
+distance: 0.0
+location: Vadodara
+jobs: ntng to do
+schools: gurukul vidhyalaya
+intent: 
+
+descriptors: 
+Zodiac - Aries
+Education - Bachelors
+Family Plans - Not sure yet
+COVID Vaccine - Unvaccinated
+Communication Style - Better in person
+Love Style - Time together
+Pets - Dog
+Drinking - On special occasions
+Smoking - Smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Off the grid
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 61feafce3b5fe50100074ebc
+name: Aswathi
+bio: When grunge meets cottagecore 🍂
+
+Avid kdrama watcher. Love EDM when it comes to music else, am a nature admirer. 
+birhday: 2002-01-17
+distance: 0.0
+location: Vadodara
+jobs: Management Undergrad
+schools: National Rail & Transport Institute 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Cancer
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Pets - Don't have but love
+Drinking - On special occasions
+
+---------------------------------------------------------
+
+user: 62667bf84bca71010095e2ed
+name: Khushi
+bio: Gujju, and so for sure garba lover💃
+Sapiosexual
+My mood swing rate is more than your respiratory rate
+Swipe right for pretty, good, decent conversations
+Gram: @khushieee___
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b2df77b0ebd7010050a01e
+name: AMISHA
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 626f933b646d740100814f81
+name: Niharika
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6092ba230ba9130100405633
+name: Unnati Patel
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: parul university
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 638cc1beb9f85c0100a9da40
+name: Kiddo
+bio: Nthg to say 
+birhday: 2002-01-17
+distance: 0.0
+location: Vadodara
+jobs: Agent
+schools: MSU 
+intent: 
+
+descriptors: 
+Zodiac - Pisces
+Education - In College
+Family Plans - Not sure yet
+COVID Vaccine - Vaccinated
+Personality Type - INTJ
+Communication Style - I'm slow to answer on WhatsApp
+Love Style - Time together
+Pets - Dog
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Often
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 62cbd0768ee7bf01006a135c
+name: Unnati
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: parul 
+intent: Short-term, open to long
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5e0dda393e719901002d9bb3
+name: Pratiksha
+bio: I m mixture of emotional  and free minded person..... it's upon you wt u want to explore in me ✨
+
+Yes I'm very serious kinded person...so fake people's please keep distance....
+
+Not here for hookups.....so  please stay away
+birhday: 1998-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: St Xavier's school
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Virgo
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 61f7ae32039cc80100a982bd
+name: Jahnvi
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Govt. dental college, Ahmedabad
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b49820cc4e210100006e87
+name: Preet
+bio: text me on Instagram: preegital_p
+I am not very active here so
+See you on insta, don't  expect a reply from me by just sending a 'hey' text
+ I hope distance doesn't bother you to catch up.
+Finding something genuine whether it's friendship or more than that
+Aur hookup vale approach na hi kare to behtaar hai , as I am not looking for that, so apna kimti samay kisi aur pai try kare.
+
+birhday: 1999-01-17
+distance: 0.0
+location: Ankleshwar
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+Zodiac - Virgo
+Education - Masters
+Love Style - Time together
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+Communication Style - Better in person
+
+---------------------------------------------------------
+
+user: 5ea172005b13150100f8e589
+name: Sakshi
+bio: 5'9
+Trying hard not to be a basic bitch!!
+Appreciating dark humour 
+I get paid to poke people with sharp objects!!
+
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+Education - In College
+Personality Type - INTP
+Communication Style - Better in person
+Love Style - Thoughtful gestures
+Pets - All the pets
+Drinking - Sober
+Smoking - Non-smoker
+Workout - Often
+Dietary Preference - Omnivore
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 60558e746ac7790100707805
+name: Mysterious
+bio: ❤️❤️
+birhday: 2000-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+
+---------------------------------------------------------
+
+user: 62935eb17fbaa801009ece50
+name: Anjali
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+bio: Forensic scientist
+I see dead people
+I'm Salunke to your coke
+Okay cool 
+Good talk 
+Bye
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 61f7ae32039cc80100a982bd
+name: Jahnvi
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Govt. dental college, Ahmedabad
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+bio: um hi
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+
+---------------------------------------------------------
+
+user: 63b031d394ddfb010033be37
+name: Pyarii
+bio: Babumosaiii.... 2 din ki Chandni nai life time membership vala chahiye 😉🐼🧿 
+Panda 🐼 ko koi Ganda 🙃 chahiye 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Krantiguru Shyamji Krishna Verma Kachchh University
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61feafce3b5fe50100074ebc
+name: Aswathi
+bio: When grunge meets cottagecore 🍂
+
+Avid kdrama watcher. Love EDM when it comes to music else, am a nature admirer. 
+birhday: 2002-01-17
+distance: 0.0
+location: Vadodara
+jobs: Management Undergrad
+schools: National Rail & Transport Institute 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Cancer
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Pets - Don't have but love
+Drinking - On special occasions
+
+---------------------------------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+bio: Don’t ask for my Insta fb & WhatsApp 
+I’m here for few days & just wanna meet new people to chill with & fun.
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Gujarat University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Pisces
+Education - Masters
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Time together
+Drinking - Socially on weekends
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 63bf86dc9773ba01004b4639
+name: Disha
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 62667bf84bca71010095e2ed
+name: Khushi
+bio: Gujju, and so for sure garba lover💃
+Sapiosexual
+My mood swing rate is more than your respiratory rate
+Swipe right for pretty, good, decent conversations
+Gram: @khushieee___
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: C K Shah
+
+intent: New friends
+
+descriptors: 
+Zodiac - Aries
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: vakal vidhyalay bajwa 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 60a65456cf1a0c0100c6edf1
+name: Maya
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: University of Mumbai
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 639f1359c4325401001ead3a
+name: Aastha
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Ahmedabad University
+intent: 
+
+descriptors: 
+Zodiac - Libra
+Education - Bachelors
+Family Plans - I don't want children
+COVID Vaccine - Vaccinated
+Communication Style - Better in person
+Love Style - Time together
+Pets - Pet-free
+Drinking - Sober curious
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Other
+Sleeping Habits - In a spectrum
+
+---------------------------------------------------------
+
+user: 6092ba230ba9130100405633
+name: Unnati Patel
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: parul university
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6364b4de2cc9590100317842
+name: Nidhi Rajput
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: Accountant
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6111598b9b927901007a864e
+name: Nisha Chaudhary
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Scorpio
+Education - Masters
+Personality Type - ENTJ
+Communication Style - Big time texter
+Love Style - Thoughtful gestures
+Pets - All the pets
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Off the grid
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 6282d3790c22700100da63e3
+name: Prakruthi
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Indian Institute of Technology, Madras
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6375dde323d8310100082487
+name: Debashrita
+bio: Thoughtful introvert 
+Boring and regular, yet full of surprises 
+
+birhday: 1999-01-17
+distance: 0.0
+location: Gandhinagar
+jobs: 
+schools: Central University of Gujarat
+intent: 
+
+descriptors: 
+Personality Type - INTJ
+
+---------------------------------------------------------
+
+user: 63b580befbfc91010052183e
+name: Pushty
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Virgo
+Education - Bachelors
+Pets - Don't have but love
+Drinking - On special occasions
+Smoking - Social smoker
+Workout - Sometimes
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 60558e746ac7790100707805
+name: Mysterious
+bio: ❤️❤️
+birhday: 2000-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+
+---------------------------------------------------------
+
+user: 638b13dba0be97010074ccbf
+name: Drashti
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: Mumbai
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Cancer
+Love Style - Presents
+Pets - Dog
+Drinking - On special occasions
+Smoking - Non-smoker
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 6397fa3335ce840100f7e6e3
+name: M
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 622874a8e30ad4010055e148
+name: Shruti
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: GLS
+intent: Short-term, open to long
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5d0220b398406a1500e814b1
+name: Mranalini Mishra
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: Gujarat
+jobs: 
+schools: government polytechnic mankeda ,agra
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5fc3b88bc44f620100550c9d
+name: DISHA
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bffc5bfbfc910100568b12
+name: Dimpal
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Short-term fun
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b4252e9773ba01004755d7
+name: Khushi
+bio: Chubby twirler❤️ long drives and coffee❤️ also, cinema ✨ let’s walk under the stars holding hands❤️ Romance to me is sitting together while you watch the sunset and I keep staring at you.❤️ A big Noo to hookups! Also, 5’5 tall!🫣
+birhday: 2001-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: GLS University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Pisces
+Education - Masters
+Communication Style - Phone caller
+Love Style - Time together
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Often
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 63a88e01dfe98c01001d15ce
+name: Nupoor
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Libra
+Personality Type - ENFP
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Never
+
+---------------------------------------------------------
+
+user: 62efde6b7813c80100c49875
+name: Mansi
+bio: Broken but beautiful 😌❤️💫
+birhday: 2001-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: nalanda vidhyalaya 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 628fb97b304e070100ffdb76
+name: Nami
+bio: If you watch anime and k drama 🖐️ give me high five ... we match the vibe😄
+Can you see the video in which a man do the cooking.. isn't it look so damn cute and sexy at the same time? Haha you know what i mean
+⚠️Don't give me creepy Vibes... i am not that type
+Coffee over chai..
+😺 Over 🐶
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Still figuring it out
+
+descriptors: 
+Education - Masters
+Personality Type - INTJ
+Communication Style - I'm slow to answer on WhatsApp
+Love Style - Compliments
+Pets - Don't have but love
+Drinking - Not for me
+Smoking - Non-smoker
+Workout - Never
+Dietary Preference - Omnivore
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+Zodiac - Capricorn
+
+---------------------------------------------------------
+
+user: 619ce6e0550f5c0100ff726d
+name: Mishti Patel
+bio: Instagram id : This_is_mishti  
+
+Here for 🙄 nothing 😅juss wanna know about new people 😁🤗
+birhday: 2000-01-17
+distance: 0.0
+location: Surat
+jobs: lab technician
+schools: The Maharaja Sayajirao University of Baroda
+intent: Long-term partner
+
+descriptors: 
+Pets - All the pets
+Zodiac - Sagittarius
+
+---------------------------------------------------------
+
+user: 628f941507a59f010093a08a
+name: Jeenal
+bio: In the process of learning about myself and the world. I bet you wanna too! Let's do that together, shall we? 🥹
+birhday: 1998-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: Chartered accountant student
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Taurus
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 62a4f6134a5e140100977df1
+name: Radhe
+bio: Let me ruin your life 🫶🏾
+
+Dark humour is appreciated
+
+👻- radhe.rx
+Insta- radhe_xoxo
+birhday: 2002-01-17
+distance: 0.0
+location: Oxford
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63abf13877ff060100deac4a
+name: khevna
+bio: 
+birhday: 2003-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 639dd4f29210f90100823149
+name: DV
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: Mumbai
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Virgo
+
+---------------------------------------------------------
+
+user: 5f898fa90c08570100c0d34d
+name: Anshi
+bio: Go through SITUATIONSHIP ...fir asli maza ayega RELATIONSHIP mai 💲
+A for Apple
+B for bread pakoda🌝
+C for cutlet 🌝
+D for Domino's 🌝
+birhday: 2001-01-17
+distance: 0.0
+location: Kanpur
+jobs: lol
+schools: Sanatani 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63be36d9cc4e21010003c957
+name: Mogu mogu
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Parul 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5b40e3284c0eb0c17a9542b2
+name: Akshara
+bio: People Call me Akshu
+Blow candles on 3rd Aug
+Huge fan Of CR7 & VK18
+Sports is mᎽ life!💞
+Dog lover!💞♥️🐕
+Into digital filmmaking and graphic designing.♥️
+
+Not much active here, let's connect on instagram!👇😉
+_as_your_angel____
+birhday: 1999-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61e3faa5cf0856010011992d
+name: Anjali
+bio: Simple as sweet
+Ahmedabad
+
+birhday: 2000-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+Zodiac - Capricorn
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 639abeac9d502c01005f40c2
+name: Isha
+bio: A coffee addict, dogs are my happy place.
+Am looking for someone to hangout with....
+birhday: 2002-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: New friends
+
+descriptors: 
+Zodiac - Virgo
+Education - Bachelors
+Pets - Dog
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Never
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - In a spectrum
+Communication Style - Phone caller
+
+---------------------------------------------------------
+
+user: 5f0994bf5c55390100163baf
+name: Shraddha resia
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 624bcf5c878dab01006d6897
+name: Tanvi
+bio: 
+birhday: 1998-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: Human resources recruiter
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Scorpio
+Pets - Don't have but love
+Smoking - Non-smoker
+
+---------------------------------------------------------
+
+user: 613d929dd3e30d0100e0baf7
+name: Jiya
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Gemini
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 60f30a1847554e01001ce1c2
+name: Jayati
+bio: Forensic scientist
+I see dead people
+I'm Salunke to your coke
+Okay cool 
+Good talk 
+Bye
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Pets - Don't have but love
+
+---------------------------------------------------------
+
+user: 63a57bd3b0ebd701004b1139
+name: Priyanshi Shah
+bio: 
+birhday: 2004-01-17
+distance: 0.0
+location: Vadodara
+jobs: 
+schools: C K Shah
+
+intent: New friends
+
+descriptors: 
+Zodiac - Aries
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Dietary Preference - Vegetarian
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 5e9b577bb6484b010077cafe
+name: Ishani
+bio: um hi
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Aquarius
+
+---------------------------------------------------------
+
+user: 639adf6cb0ebd701004724a6
+name: Dr.charmi
+bio: Don’t ask for my Insta fb & WhatsApp 
+I’m here for few days & just wanna meet new people to chill with & fun.
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Gujarat University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Pisces
+Education - Masters
+COVID Vaccine - Vaccinated
+Communication Style - Big time texter
+Love Style - Time together
+Drinking - Socially on weekends
+Smoking - Non-smoker
+Workout - Everyday
+Dietary Preference - Vegetarian
+Social Media - Passive scroller
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 63be634ddba72e010027d69a
+name: Parmar Manisha
+bio: 
+birhday: 1997-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: vakal vidhyalay bajwa 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 62667bf84bca71010095e2ed
+name: Khushi
+bio: Gujju, and so for sure garba lover💃
+Sapiosexual
+My mood swing rate is more than your respiratory rate
+Swipe right for pretty, good, decent conversations
+Gram: @khushieee___
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: New friends
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 61feafce3b5fe50100074ebc
+name: Aswathi
+bio: When grunge meets cottagecore 🍂
+
+Avid kdrama watcher. Love EDM when it comes to music else, am a nature admirer. 
+birhday: 2002-01-17
+distance: 0.0
+location: Vadodara
+jobs: Management Undergrad
+schools: National Rail & Transport Institute 
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Cancer
+Education - In College
+COVID Vaccine - Vaccinated
+Love Style - Time together
+Pets - Don't have but love
+Drinking - On special occasions
+
+---------------------------------------------------------
+
+user: 61f7ae32039cc80100a982bd
+name: Jahnvi
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: Govt. dental college, Ahmedabad
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63c2a15ddba72e0100296f22
+name: Neera
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63bf86dc9773ba01004b4639
+name: Disha
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: The Maharaja Sayajirao University of Baroda
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 6092ba230ba9130100405633
+name: Unnati Patel
+bio: 
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: parul university
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63308779bb27b00100d25a8f
+name: Zakiya
+bio: 
+birhday: 2002-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: Long-term partner
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 5f0994bf5c55390100163baf
+name: Shraddha resia
+bio: 
+birhday: 1999-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 63b4252e9773ba01004755d7
+name: Khushi
+bio: Chubby twirler❤️ long drives and coffee❤️ also, cinema ✨ let’s walk under the stars holding hands❤️ Romance to me is sitting together while you watch the sunset and I keep staring at you.❤️ A big Noo to hookups! Also, 5’5 tall!🫣
+birhday: 2001-01-17
+distance: 0.0
+location: Ahmedabad
+jobs: 
+schools: GLS University
+intent: Still figuring it out
+
+descriptors: 
+Zodiac - Pisces
+Education - Masters
+Communication Style - Phone caller
+Love Style - Time together
+Drinking - On special occasions
+Smoking - Non-smoker
+Workout - Often
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Early bird
+
+---------------------------------------------------------
+
+user: 6348aa5a5bd54d0100e86896
+name: Ankipanki
+bio: Well am stubborn free bird it's very difficult to handle my mood swings only calm & composed as well as intelligent can do that if you are a play toy please back off don't waste your time as well as mine.
+
+
+birhday: 1998-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+Zodiac - Sagittarius
+Education - Masters
+Family Plans - Not sure yet
+COVID Vaccine - Prefer not to say
+Communication Style - Better in person
+Love Style - Thoughtful gestures
+Pets - Dog
+Workout - Often
+Dietary Preference - Vegetarian
+Social Media - Socially active
+Sleeping Habits - Night owl
+
+---------------------------------------------------------
+
+user: 63bada7cdfe98c010025250b
+name: Jil
+bio: 
+birhday: 2000-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------
+
+user: 632c98b3d46a4f01009bbcc9
+name: Shèjál
+bio: Jst in case...🖤
+Insta :- 0.shejal.0
+Snap :- shejal000
+birhday: 2001-01-17
+distance: 0.0
+location: 
+jobs: 
+schools: 
+intent: 
+
+descriptors: 
+
+
+---------------------------------------------------------

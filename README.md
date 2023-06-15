@@ -14,10 +14,14 @@ Took help from this github repo on how to reverse engineer the api\
 
 Collected profile data and photos and logged it in a text file and folder
 
+![logs](https://github.com/subhashishansda4/Tinder-Bot/blob/main/misc/logs.jpg)
+
 ### Face Detection & Rating
 Made functions to detect faces in the photos and rate them based on the **cosine similarity** between faces of that of actresses
 
 Rated the photos and generated a score to use as a threshold for like/dislike by using facial embeddings
+
+![likes](https://github.com/subhashishansda4/Tinder-Bot/blob/main/misc/likes.jpg)
 
 ## Conclusion
 I AM STILL SINGLE :)

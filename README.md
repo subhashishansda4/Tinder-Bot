@@ -2,7 +2,7 @@
 Built a **Tinder Bot** to automatically *like/dislike* potential partners according to a preference set by the user\
 The bot compares the facial features of someone the user is attracted to and every other profile on Tinder to find the best match possible
 
-
+https://github.com/subhashishansda4/Tinder-Bot/assets/84849423/9dd40dd4-5bff-4035-83f3-5dda71292618
 
 ## Methodology
 ### Raw Data
